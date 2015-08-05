@@ -1,0 +1,2 @@
+![http://telephone.googlecode.com/svn/site/sipgate-account-setup.png](http://telephone.googlecode.com/svn/site/sipgate-account-setup.png)
+![http://telephone.googlecode.com/svn/site/sipgate-network-setup.png](http://telephone.googlecode.com/svn/site/sipgate-network-setup.png)

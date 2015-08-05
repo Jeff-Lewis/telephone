@@ -1,0 +1,1 @@
+![http://telephone.googlecode.com/svn/site/sipnet-account-setup.png](http://telephone.googlecode.com/svn/site/sipnet-account-setup.png)
